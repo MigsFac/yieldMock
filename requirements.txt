@@ -1,3 +1,7 @@
 numpy
 requests
 django
+google-api-python-client
+beautifulsoup4 
+lxml
+Pillow
