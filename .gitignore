@@ -2,3 +2,5 @@
 .history/
 fujisan_images/
 .env
+dataset/
+.DS_Store
