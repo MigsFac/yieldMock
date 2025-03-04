@@ -1,3 +1,4 @@
 .yieldenv/
 .history/
 fujisan_images/
+.env
